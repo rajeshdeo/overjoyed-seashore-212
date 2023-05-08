@@ -119,8 +119,8 @@ We made this project within 5 days
 If you want to contact us, you can reach me through below handles. <br />
 
 
-[![linkedin](https://img.shields.io/badge/Rajesh-Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rajeshdeo)
-[![GitHub](https://img.shields.io/badge/Rajesh-Kumar-0077B5?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rajeshdeo)
+[![linkedin](https://img.shields.io/badge/Rajesh_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-801161258/)
+[![GitHub](https://img.shields.io/badge/Rajesh_Kumar-0077B5?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rajeshdeo)
 
 [![linkedin](https://img.shields.io/badge/Chandra_Sekhar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Gedelachandrasekhar126396)
 [![GitHub](https://img.shields.io/badge/Chandra_Sekhar-0077B5?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Gedelachandrasekhar126396)
